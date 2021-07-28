@@ -1,7 +1,9 @@
+import Header1 from '../Header/Header1/Header1'
+
 export default function MainLayout(props){
     return (
     <>
-        <header> This is the header</header>
+        <Header1 />
         <main>{props.children}</main>
 
         <footer> This is the header</footer>
