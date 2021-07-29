@@ -6,9 +6,6 @@ import Header3 from '../Header/Header3/Header3'
 export default function MainLayout(props){
     return (
     <>
-        <Header3 />
         <main>{props.children}</main>
-
-        <footer> This is the header</footer>
     </>)
 }
