@@ -29,10 +29,10 @@ export default function Header2() {
       </div>
       <div className="header2__collections-nav">
         <a href="/cart">
-          <i class="fas fa-shopping-cart"></i>
+          <i className="fas fa-shopping-cart"></i>
         </a>
         <a href="/cart">
-          <i class="fas fa-user"></i>
+          <i className="fas fa-user"></i>
         </a>
       </div>
     </header>

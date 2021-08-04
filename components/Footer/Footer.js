@@ -58,7 +58,7 @@ export default function Footer(props) {
               <input type="text" name="email_newsletter" className="footer__input" placeholder="youremail@company.com" />
               <p>
                 Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
+                industry. Lorem Ipsum has been the industry{`'`}s standard dummy
                 text ever since the 1500s, when an unknown printer took a galley
                 of type and scrambled it to make a type specimen book. 
               </p>
@@ -83,7 +83,7 @@ export default function Footer(props) {
             <div className="col-md-12">
                 <div className="footer__bottom">
                     <div className="footer__copyright">
-                        © 2021 E-Commerce Shop, LLC All Rights Reserved
+                       &copy; 2021 E-Commerce Shop, LLC All Rights Reserved
                     </div>
                     <div className="footer__extra-links">
                         <a href="#">Link</a>

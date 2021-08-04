@@ -23,8 +23,8 @@ export default function Header3(){
                   </li>
                 </ul></a>
                 <a href="/link"className="header3__collection-link">Link</a>
-                <a href="/cart"><i class="fas fa-shopping-cart"></i></a>
-                <a href="/cart"><i class="fas fa-user"></i></a>
+                <a href="/cart"><i className="fas fa-shopping-cart"></i></a>
+                <a href="/cart"><i className="fas fa-user"></i></a>
             </div>
     
         </header>
