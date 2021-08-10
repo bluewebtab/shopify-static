@@ -4,7 +4,23 @@
   overflow: hidden;
   position: relative;
   margin-bottom: 50px;
+
+  &--25vh{
+    height: 25vh;
+  }
   
+  &--50vh{
+    height: 50vh;
+  }
+
+  &--75vh{
+    height: 75vh;
+  }
+
+  &--100vh{
+    height: 100vh;
+  }
+
   &--aligned-center{
     .hero1__content-container{
       justify-content: center;
@@ -53,6 +69,18 @@
     font-size: 3rem;
     font-family: "Bebas Neue", cursive;
     color: #fff;
+  }
+  &__title--sm{
+      font-size: 2rem;
+  }
+  &__title--md{
+    font-size: 3rem;
+  }
+  &__title--lg{
+    font-size: 4.5rem;
+  }
+  &__title--xl{
+    font-size: 6rem;
   }
   &__paragraph{
     margin-bottom: 2rem;

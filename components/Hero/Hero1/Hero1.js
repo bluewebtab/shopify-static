@@ -1,6 +1,6 @@
 export default function Hero1(){
     return (
-        <div className="hero hero1 hero1--aligned-right">
+        <div className="hero hero1 hero1--aligned-right hero1--100vh">
             <img className="hero1__bg" src="https://images.pexels.com/photos/175696/pexels-photo-175696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"  />
             <div className="hero1__content-container">
                 <div className="hero1__info">

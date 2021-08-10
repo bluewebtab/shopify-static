@@ -1,6 +1,6 @@
 export default function Hero2() {
   return (
-    <div className="hero hero2">
+    <div className="hero hero2 hero2--100vh">
       <div className="hero2__collection1">
         <img
           className="hero2__bg"
