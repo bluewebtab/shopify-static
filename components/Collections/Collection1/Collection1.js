@@ -5,7 +5,7 @@ export default function Collection1(props) {
         <div className="row">
           <div className="col-md-4">
             <div className="collection1__collection-item">
-              <div className="collection1__product-img">
+              <div className="collection1__product-img collection1__product-img--rectangle">
                   <div className="collection1__heart">
                     <i className="far fa-heart"></i>
                   </div>
@@ -28,7 +28,7 @@ export default function Collection1(props) {
           </div>
           <div className="col-md-4">
             <div className="collection1__collection-item">
-              <div className="collection1__product-img">
+              <div className="collection1__product-img collection1__product-img--rectangle">
               <div className="collection1__heart">
                     <i className="far fa-heart"></i>
               </div>
@@ -51,7 +51,7 @@ export default function Collection1(props) {
           </div>
           <div className="col-md-4">
             <div className="collection1__collection-item">
-              <div className="collection1__product-img">
+              <div className="collection1__product-img collection1__product-img--rectangle">
               <div className="collection1__heart">
                     <i className="far fa-heart"></i>
               </div>
