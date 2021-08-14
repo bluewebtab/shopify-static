@@ -6,9 +6,7 @@ export default function Collection1(props) {
           <div className="col-md-4">
             <div className="collection1__collection-item">
               <div className="collection1__product-img collection1__product-img--rectangle">
-                  <div className="collection1__heart">
-                    <i className="far fa-heart"></i>
-                  </div>
+                  
                 <img
                   src="https://www.pngkey.com/png/full/6-63881_men-shoes-png-picture-royalty-free-shoes-for.png"
                   alt=""
@@ -29,9 +27,7 @@ export default function Collection1(props) {
           <div className="col-md-4">
             <div className="collection1__collection-item">
               <div className="collection1__product-img collection1__product-img--rectangle">
-              <div className="collection1__heart">
-                    <i className="far fa-heart"></i>
-              </div>
+          
                 <img
                   src="https://www.pngkey.com/png/full/1010-10100658_fashion-line-pn9906-slip-on-shoe.png"
                   alt=""
@@ -52,9 +48,7 @@ export default function Collection1(props) {
           <div className="col-md-4">
             <div className="collection1__collection-item">
               <div className="collection1__product-img collection1__product-img--rectangle">
-              <div className="collection1__heart">
-                    <i className="far fa-heart"></i>
-              </div>
+             
                 <img
                   src="https://www.pngkey.com/png/full/774-7744704_mens-waterproof-dress-boots.png"
                   alt=""
